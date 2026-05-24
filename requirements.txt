@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+mysql-connector-python
+sqlalchemy
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+python-dotenv
+openpyxl

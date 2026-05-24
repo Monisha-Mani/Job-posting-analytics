@@ -1,0 +1,41 @@
+# Ignore everything by default
+*
+
+# Allow required folders
+!data/cleaned/
+!notebooks/
+!Screenshots/
+
+# Allow files inside required folders
+!data/cleaned/**
+!notebooks/**
+!Screenshots/**
+
+# Allow important root files
+!.gitignore
+!README.md
+!requirements.txt
+
+# Ignore environment and secrets
+.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter temp files
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
