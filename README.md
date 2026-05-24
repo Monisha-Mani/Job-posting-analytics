@@ -29,7 +29,6 @@ Data was collected from multiple job portals including:
 - Glassdoor
 - VCS Job Portal
 
-> Note: VCS Job Portal contributed a limited number of records during the data collection window due to lower active listings compared to other portals.
 
 ---
 
@@ -53,7 +52,7 @@ Data was collected from multiple job portals including:
 - MySQL
 
 ### Visualization
-- Power BI
+- Tableau
 
 ### Development Environment
 - Jupyter Notebook
@@ -90,6 +89,7 @@ Data was collected from multiple job portals including:
 - Built charts for recruitment trends and skill demand analysis
 
 ---
+
 
 ## Key Insights
 
