@@ -53,7 +53,7 @@ Data was collected from multiple job portals including:
 - MySQL
 
 ### Visualization
-- Power BI
+- Tableau
 
 ### Development Environment
 - Jupyter Notebook
